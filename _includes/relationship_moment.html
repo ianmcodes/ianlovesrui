@@ -3,9 +3,10 @@
 
 <div class="rm-evt">
   <div class="rm-evt-dt">
-    <time datetime="{{ include.date }}">{{ include.date | date_to_string}}</time>
+    <time datetime="{{ include.moment.date }}">{{ include.moment.date | date_to_string}}</time>
   </div>
+  <h2>{{ include.moment.title }}</h2>
   <div class="rm-evt-desc">
-    {{ include.content }}
+    {{ include.moment.content }}
   </div>
 </div>
