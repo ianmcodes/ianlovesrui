@@ -1,3 +1,15 @@
-<svg>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <style>
+    #bg {
+      width:100%;
+      height:100%;
+      fill: pink;
+    }
 
+    #iloveu_cn {
+
+    }
+  </style>
+  <rect id="bg"></rect>
+  <text id="iloveu_cn" x="50%" y="50%">WoAiNi</text>
 </svg>
