@@ -8,6 +8,13 @@
   background-image: none;
 }
 
+.rm-evt {
+  border: 1px solid #bbb;
+  margin-bottom: 1em;
+  padding: 5px;
+  box-shadow: 0 2px 5px 1px;
+}
+
 .rm-evt-dt {
   width: 90px;
   height: 70px;
@@ -21,4 +28,8 @@
   display: block;
   width: 50px;
   margin: auto;
+}
+
+.rm-evt-desc p:last-child {
+  margin-bottom: 0;
 }
