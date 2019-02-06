@@ -7,6 +7,6 @@
   </div>
   <h2>{{ include.moment.title }}</h2>
   <div class="rm-evt-desc">
-    {{ include.moment.content }}
+    {{ include.moment.content | markdownify }}
   </div>
 </div>

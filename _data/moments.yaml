@@ -1,3 +1,8 @@
+# - date: YYYY-MM-DD
+#   title: TITLE
+#   content: >-
+#     MARKDOWN CONTENT
+
 - date: 2018-06-01
   title: First Date
   content: >-
