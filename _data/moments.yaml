@@ -4,11 +4,85 @@
 #     MARKDOWN CONTENT
 
 - date: 2018-06-01
-  title: First Date
+  title: Our First Date
+  by: Ian
   content: >-
-    Our first date at Howels and Hood
+    Our first date was at Howels and Hood. I met Rui outside the Tribune Tower after work.
 
 - date: 2018-06-04
-  title: Second Date
+  title: Our Second Date
+  by: Ian
   content: >-
     A lunch date
+
+- date: 2018-06-17
+  title: A Movie and A Walk Along the River
+  by: Ian
+  content: >-
+    We saw __Incredibles 2__
+
+- date: 2018-06-22
+  title: The Restaurant Was Too Loud
+  by: Ian
+  content: >-
+    The restaurant was too loud.
+
+- date: 2018-07-04
+  title: Dinosaurs and Fireworks
+  by: Ian
+  content: >-
+    Independence day
+
+- date: 2018-07-14
+  title: Mitchell's Play
+  by: Ian
+  content: >-
+    School House Rock Jr.
+
+- date: 2018-07-22
+  title: Two Left Feet
+  by: Ian
+  content: >-
+    Dancing and dinner.
+
+- date: 2018-08-18
+  title: Oh Canada!
+  by: Ian
+  content: >-
+    Trip to Canada.
+
+- date: 2018-11-19
+  title: Happy Birthday My Love!
+  by: Ian
+  content: >-
+    Lunch at Rosebud on Rush.
+
+- date: 2018-09-15
+  title: Mid-Autumn Festival
+  by: Ian
+  content: >-
+    At Burnum Park
+
+- date: 2018-11-22
+  title: China!
+  by: Ian
+  content: >-
+    Flight to China
+
+- date: 2018-12-16
+  title: Rui's Triumphal Return!
+  by: Ian
+  content: >-
+    My baby is back in my arms.
+
+- date: 2018-12-25
+  title: Christmas
+  by: Ian
+  content: >-
+    Christmas
+
+- date: 2019-01-01
+  title: Happy New Year!
+  by: Ian
+  content: >-
+    Starting the new year in Branson, MO.
