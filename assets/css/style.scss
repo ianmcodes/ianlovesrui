@@ -12,6 +12,22 @@
   display: none;
 }
 
+nav {
+  margin-bottom: 1em;
+}
+
+nav > ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav > ul > li {
+  display: inline-block;
+  flex-grow: 1;
+  text-align: center;
+}
+
 .rm-evt {
   border: 1px solid #bbb;
   margin-bottom: 1em;

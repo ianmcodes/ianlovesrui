@@ -5,6 +5,12 @@
 layout: default
 ---
 
+<nav style="display:none;">
+  <ul>
+    <li>Wedding</li>
+  </ul>
+</nav>
+
 {% for moment in site.data.moments %}
   {% include relationship_moment.html moment=moment %}
 {% endfor %}
