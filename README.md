@@ -14,3 +14,6 @@
     * `xcode-select --install && brew install ruby`
 1. `gem install jekyll bundler`
 1. `bundle`
+
+### Startup
+* `bundle exec jekyll serve --watch`
