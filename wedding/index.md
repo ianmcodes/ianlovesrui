@@ -7,6 +7,4 @@ layout: default
 
 {% include navigation.html %}
 
-{% for moment in site.data.moments %}
-  {% include relationship_moment.html moment=moment %}
-{% endfor %}
+
