@@ -13,17 +13,24 @@ layout: default
 
 _Story of our engagement_
 
-_insert video_
+_insert video1_
 
 ## Getting the Ring Resized
 
-_insert video2_
+<video id="vidEngagement2" controls preload="auto" style="width:100%">
+  <source src="https://bucket.ianlovesrui.com/Engagement2.mp4" type="video/mp4">
+</video>
 
 # Planing
 
 ## Virtual Wedding
 
-_insert Video of wedding_
+### Ceremony
+
+<video id="vidCeremony" controls preload="auto" style="width:100%">
+  <source src="https://bucket.ianlovesrui.com/Rui+%26+Ian's+Wedding+-+ceremony.mp4" type="video/mp4">
+  Your browser does not support embeded video.
+</video>
 
 ## In Person Event
 
