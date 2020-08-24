@@ -29,7 +29,7 @@ _insert video1_
 
 <video id="vidCeremony" controls preload="auto" style="width:100%">
   <source src="https://bucket.ianlovesrui.com/Rui+%26+Ian's+Wedding+-+ceremony.mp4" type="video/mp4">
-  Your browser does not support embeded video.
+  Your browser does not support embedded video.
 </video>
 
 ## In Person Event
