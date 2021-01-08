@@ -13,7 +13,9 @@ layout: default
 
 _Story of our engagement_
 
-_insert video1_
+<video id="vidEngagement1" controls preload="auto" style="width:100%">
+  <source src="https://bucket.ianlovesrui.com/Engagement1.MP4" type="video/mp4">
+</video>
 
 ## Getting the Ring Resized
 
