@@ -11,13 +11,17 @@ layout: default
 
 # Our Engagement! 💍
 
-I new for a while that I wanted to marry Rui. I had originally planned to propose on our anniversary and at the spot we first met in person. 
+I new for a while that I wanted to marry Rui. I had originally planned to propose on our anniversary. And at the spot we first met in person, in the plaza next to the Tribune Tower. I had hoped that it would be romantic, despite the fact that the area had since turned into a construction site.
+
+But alas, a certain virus had other plans. In late March, we started working from home. We stopped commuting into the city and had to get used to spending just about all day in our condo. And I had to change my plans for a proposal at home.
 
 <video id="vidEngagement1" controls preload="auto" style="width:100%">
   <source src="https://bucket.ianlovesrui.com/Engagement1.MP4" type="video/mp4">
 </video>
 
 ## Getting the Ring Resized
+
+Of course, the ring was far to big and needed to be resized. Luckily we were able to get it resized for free. We just had to send it back and wait for them to send us the resized ring. Once we got it back, Rui wanted be to try proposing again 😅.
 
 <video id="vidEngagement2" controls preload="auto" style="width:100%">
   <source src="https://bucket.ianlovesrui.com/Engagement2.mp4" type="video/mp4">
