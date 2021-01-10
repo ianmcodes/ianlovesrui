@@ -11,7 +11,7 @@ layout: default
 
 # Our Engagement! 💍
 
-_Story of our engagement_
+I new for a while that I wanted to marry Rui. I had originally planned to propose on our anniversary and at the spot we first met in person. 
 
 <video id="vidEngagement1" controls preload="auto" style="width:100%">
   <source src="https://bucket.ianlovesrui.com/Engagement1.MP4" type="video/mp4">
