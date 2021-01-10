@@ -1,0 +1,5 @@
+tasks:
+  - init: gem install jekyll bundler && bundle
+    command: bundle exec jekyll serve --watch
+ports:
+ - port: 4000
